@@ -6,6 +6,8 @@ fn print_time(n: i64) {
 }
 
 fn main() {
+    println!("");
+
     /*
     print_time(0x00000000);
     print_time(0x000F0000);
