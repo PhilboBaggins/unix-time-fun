@@ -1,6 +1,6 @@
 use unix_ts_macros::ts;
 
-fn print_time(n: u32) {
+fn print_time(n: i64) {
     let t = ts!(n);
     println!("{:#08X} {}", n, t.to_utc_datetime());
 }
