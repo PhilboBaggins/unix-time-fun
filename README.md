@@ -1,4 +1,4 @@
-# Unit time fun
+# Unix time fun
 
 ```bash
 $ cargo run
