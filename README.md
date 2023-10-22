@@ -1,5 +1,7 @@
 # Unix time fun
 
+Looking for interesting unix timestamps.
+
 ```bash
 $ cargo run
     Finished dev [unoptimized + debuginfo] target(s) in 0.02s
